@@ -8,6 +8,13 @@
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
   
+  # githubtraining
+- project: githubtraining
+  role: Contributor
+  duration: githubtraining
+  url: "https://lab.github.com/githubtraining/managing-merge-conflicts"
+  description: Something like this?
+  
 # GitHub Classroom
 - project: GitHub Classroom
   role: Contributor
